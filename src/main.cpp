@@ -173,5 +173,8 @@ int AVERAGE_TEMP() //retorna a média entre 60 leituras de temperatura
   
   return(temp_store/60);
 
+  
+  
+
 
 }
